@@ -1,0 +1,12 @@
+mufeng
+niu
+sydney
+0424507439
+ericmathewmu@gmail.com
+5705690
+9000
+09.06.2022|Deposit|10000|10000
+09.06.2022|Withdraw|500|9500
+09.06.2022|Withdraw|1000|8500
+09.15.2022|Deposit|1000|9500
+09.15.2022|Withdraw|500|9000

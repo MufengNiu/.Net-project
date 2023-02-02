@@ -1,0 +1,12 @@
+Sam
+Verge
+UTS Building 11, Sydney
+123456789
+samv@uts.edu.au
+100001
+4453
+10.12.2021|Deposit|200|800
+12.12.2021|Deposit|400|1200
+09.06.2022|Deposit|4000|4453
+09.06.2022|Deposit|500|4953
+09.06.2022|Withdraw|500|4453
